@@ -70,22 +70,18 @@ using synthetic trading data.
 
 ### Run the Dashboard
 
+
 ## Crypto Asset Growth Dashboard
 
 ### Campaign ROI
-![Campaign ROI](./growth_dashboard/campaign_roi.png)
+![Campaign ROI](./crypto-asset-growth-phase4/growth_dashboard/campaign_roi.png)
 
 ### User Retention
-![User Retention](./growth_dashboard/retention.png)
+![User Retention](./crypto-asset-growth-phase4/growth_dashboard/retention.png)
 
 ### Asset Scoring
-![Asset Scores](./growth_dashboard/asset_scores.png)
+![Asset Scores](./crypto-asset-growth-phase4/growth_dashboard/asset_scores.png)
 
 ### Liquidity Spread
-![Liquidity Spread](./growth_dashboard/spread.png)
+![Liquidity Spread](./crypto-asset-growth-phase4/growth_dashboard/spread.png)
 
-
-
-```bash
-python dashboard.py
-```
