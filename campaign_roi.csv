@@ -1,0 +1,3 @@
+campaign_id,token,campaign_cost_usd,fee_revenue_usd,roi_pct,roas
+ACTX-LAUNCH,ACTX,500,14.2,-97.16,0.03
+BTC-ACTIVE,BTC,100,65.0,-35.0,0.65
