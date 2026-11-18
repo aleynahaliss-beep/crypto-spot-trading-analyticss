@@ -69,19 +69,3 @@ using synthetic trading data.
 ![Active Traders](dashboard/active_traders.png)
 
 ### Run the Dashboard
-
-
-## Crypto Asset Growth Dashboard
-
-### Campaign ROI
-![Campaign ROI](./crypto-asset-growth-phase4/growth_dashboard/campaign_roi.png)
-
-### User Retention
-![User Retention](./crypto-asset-growth-phase4/growth_dashboard/retention.png)
-
-### Asset Scoring
-![Asset Scores](./crypto-asset-growth-phase4/growth_dashboard/asset_scores.png)
-
-### Liquidity Spread
-![Liquidity Spread](./crypto-asset-growth-phase4/growth_dashboard/spread.png)
-
