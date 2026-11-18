@@ -70,33 +70,20 @@ using synthetic trading data.
 
 ### Run the Dashboard
 
-
-## Crypto Asset Growth Analytics — Phase 4
-
-This project analyzes crypto asset growth using Python
-and Pandas.
+## Crypto Asset Growth Dashboard
 
 ### Campaign ROI
-![Campaign ROI](growth_dashboard/campaign_roi.png)
+![Campaign ROI](./growth_dashboard/campaign_roi.png)
 
 ### User Retention
-![User Retention](growth_dashboard/retention.png)
+![User Retention](./growth_dashboard/retention.png)
 
 ### Asset Scoring
-![Asset Scores](growth_dashboard/asset_scores.png)
+![Asset Scores](./growth_dashboard/asset_scores.png)
 
 ### Liquidity Spread
-![Liquidity Spread](growth_dashboard/spread.png)
+![Liquidity Spread](./growth_dashboard/spread.png)
 
-### Key Metrics
-- Trading volume
-- Active traders
-- User retention
-- Campaign ROI
-- Asset health score
-- Liquidity spread
-
-**Data:** Synthetic data for portfolio demonstration.
 
 
 ```bash
