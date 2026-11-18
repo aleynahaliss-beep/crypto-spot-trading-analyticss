@@ -1,0 +1,4 @@
+token,volume_usd,repeat_trader_rate_pct,spread_bps,asset_score,priority
+ACTX,14200,60.0,45,43.5,Test growth
+BTC,65000,100.0,3,99.2,Prioritize
+ETH,25000,25.0,8,47.2,Test growth
