@@ -53,3 +53,23 @@ The script prints the input transactions and KPI summary, and writes `actx_summa
 ## Notes
 
 The current dataset is intentionally small and only demonstrates three basic KPIs. It does **not** yet measure retention, liquidity, campaign ROI, or asset growth over time. Future extensions could add timestamps, fee revenue, order-book snapshots, and campaign attribution.
+
+## Phase 2: Spot Trading Dashboard
+
+This dashboard compares BTC, ETH, and ACTX
+using synthetic trading data.
+
+### Daily Trading Volume
+![Daily Trading Volume](dashboard/daily_volume.png)
+
+### Total Volume by Token
+![Token Volume](dashboard/token_volume.png)
+
+### Daily Active Traders
+![Active Traders](dashboard/active_traders.png)
+
+### Run the Dashboard
+
+```bash
+python dashboard.py
+```
